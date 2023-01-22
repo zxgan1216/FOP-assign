@@ -1,0 +1,34 @@
+┌────────────────────────────────────────┬──────────┐
+│Type of Error                           │ Count    │
+│────────────────────────────────────────┼──────────│
+│QoS Access Error                        │ 143      │
+│TRES Underflow Error                    │ 15       │
+│Invalid Job ID Error                    │ 16       │
+│User Not Found Error                    │ 50       │
+│Node Lookup Error                       │ 62       │
+│Socket Timeout Error                    │ 67       │
+│Node Not Responding Error               │ 40       │
+│Controller Configuration Error          │ 1        │
+│Invalid Job Resources Error             │ 1        │
+│Job Pending Error                       │ 5        │
+│Job Requeue Error                       │ 8        │
+│Zero Bytes Transmission Error           │ 5        │
+│Job/Step Completion Error               │ 30       │
+│CPU Configuration Error                 │ 1        │
+│Invalid Node Error                      │ 61       │
+│GRES Underflow Error                    │ 64       │
+│Invalid QoS Error                       │ 14       │
+│Group Configuration Error               │ 1        │
+│Slurm Configuration Error               │ 36       │
+│Job Priority Error                      │ 1        │
+│Security Violation Error                │ 14       │
+│Slurm Message Sending Error             │ 2        │
+│Job Termination Error                   │ 5        │
+│Aborted Job Error                       │ 1        │
+│Prolog Launch Error                     │ 1        │
+│Node Validation Error                   │ 1        │
+│Epilog Execution Error                  │ 30       │
+└────────────────────────────────────────┴──────────┘
+
+Total type of errors: 27
+Total number of errors: 675

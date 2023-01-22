@@ -1,0 +1,13 @@
+Partition list : 
+┌────────────────────────────────────────┬──────────┐
+│Partition                               │ Count    │
+│────────────────────────────────────────┼──────────│
+│gpu-v100s                               │ 588      │
+│cpu-epyc                                │ 2756     │
+│cpu-opteron                             │ 4509     │
+│gpu-titan                               │ 640      │
+│gpu-k40c                                │ 295      │
+│gpu-k10                                 │ 428      │
+└────────────────────────────────────────┴──────────┘
+Number of type of Partition = 6
+Total number of Partition = 9216

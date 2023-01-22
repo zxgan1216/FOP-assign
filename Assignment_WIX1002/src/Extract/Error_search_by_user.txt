@@ -1,0 +1,18 @@
+┌────────────────┬──────────────────────┬────────────────┐
+│Association     │ Username             │ Error type     │
+│────────────────┼──────────────────────┼────────────────│
+│238             │ aah                  │ long           │
+│238             │ aah                  │ long           │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+│238             │ aah                  │ normal         │
+└────────────────┴──────────────────────┴────────────────┘
+238's Long: 2
+238's Normal: 10
